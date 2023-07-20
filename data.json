@@ -15,6 +15,11 @@
         "difficulty":8
     },
     {
+        "id":"AtSoL",
+        "name":"At the speed of light",
+        "difficulty":6
+    },
+    {
         "id":"timer",
         "name":"调试-时间准度",
         "difficulty":42
